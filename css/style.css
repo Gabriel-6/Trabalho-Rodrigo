@@ -1,0 +1,88 @@
+.text-main {
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Open Sans';
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.text-sub {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+}
+
+.table-insert {
+    text-align: right;
+}
+
+.copa {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    float: left;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: 150px;
+    font-size: 1.4rem;
+}
+
+.input-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: right;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+td {
+    vertical-align: inherit;
+    border-color: inherit;
+    text-align: center;
+    width: 160px;
+    border-bottom: 1px solid #cdcdcd;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+th {
+    color: #666;
+    border-bottom: 1px solid #cdcdcd;
+    border-right: 1px solid #cdcdcd;
+    border-top: 1px solid #cdcdcd;
+}
+
+#jogos {
+    margin-right: 190px;
+}
+
+.com-input {
+    margin-bottom: 10px;
+    padding: 20px;
+    border: 1px solid #cdcdcd;
+}
+
+.nome {
+    border-right: 1px solid #cdcdcd;
+}
+
+
+
+.calcular {
+    width: 100px;
+    height: 40px;
+    margin-left: 83px;
+}
+
+input {
+    width: 30px;
+    height: 40px;
+}
